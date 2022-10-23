@@ -1,0 +1,15 @@
+{
+    "description": "My first NFT creation , which might be a turning point for me", 
+    "external_url": "https://dashboard.alchemy.com", 
+    "image": "https://ipfs.filebase.io/ipfs/QmQhnsh2J5jjb9caLiS3pWPgNg9sd93Wa4ATDUrh9qHvs2", 
+    "name": "ERC 721 Real Madrid",
+    "attributes": [ 
+        {
+            "trait_type":"Design",
+            "value":"football"
+        },
+    {
+        "trait_type":"back",
+        "value":"aesthetic"
+    } ]
+  }
