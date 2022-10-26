@@ -14,7 +14,7 @@ module.exports = {
     localhost: {
       url: "https://127.0.0.1:8545"
     }
-  },
+  }, 
   etherscan: {
     apiKey: process.env.POLYGONSCAN_API_KEY
   }
